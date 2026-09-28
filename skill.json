@@ -1,0 +1,20 @@
+{
+  "name": "genpark-ppo-clipped-surrogate-objective-skill",
+  "version": "1.0.0",
+  "description": "Proximal Policy Optimization (PPO) clipped surrogate objective evaluator and policy ratio limiter",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "ppo",
+    "proximal-policy-optimization",
+    "clipped-surrogate",
+    "policy-gradient",
+    "reinforcement-learning",
+    "python-standard-library",
+    "agent-skills",
+    "actor-critic",
+    "trust-region",
+    "rlhf"
+  ]
+}
